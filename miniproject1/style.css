@@ -1,0 +1,37 @@
+#items{
+
+    background-color: cornflowerblue;
+    padding: 24px;
+
+}
+.item1{
+    font-size: 24px;
+    padding: 8px;
+    font-weight: 600px;
+
+
+
+
+}
+.food{
+
+    font-size: 20px;
+  padding-left:  24px;
+}
+.foods{
+
+    font-size: 15px;
+}
+.image{
+
+    width:200px ;
+    height: 200px;
+}
+#wrapper{
+    text-align: center;
+
+}
+html{
+    scroll-behavior: smooth;
+}
+
